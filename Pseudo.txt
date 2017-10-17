@@ -1,0 +1,30 @@
+﻿There are 52 cards total. 
+Each person is given 5 cards. 
+
+
+While your turn:
+You ask another if they have any type of cards. 
+If so:
+then they give you the cards, 
+Otherwise:
+ they say go fish and you draw a card from the deck. 
+If you have Four of the same types:
+the cards go turn into a ‘book’ and you gain a point, placing them to the side.
+        Your turn ends and other player’s turn
+While their turn:
+        They ask another if you have any type of cards. 
+If so:
+then you give them the cards, 
+Otherwise:
+You say go fish and they draw a card from the deck. 
+If they have Four of the same types:
+the cards go turn into a ‘book’ and they gain a point, placing them to the side.
+Their turn ends and is your turn.
+While one player has no cards:
+        Draw 5 cards from the deck.
+
+
+Else if there’s no more cards in the deck:
+                Then the game is over and the person with the most points wins.
+                If both players have same amount of points:
+                        Then game ends in a tie

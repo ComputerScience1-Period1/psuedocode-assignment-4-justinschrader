@@ -1,0 +1,30 @@
+﻿There are 52 cards total. 
+Each person is given 5 cards. 
+You can ask the other player if they have that number/royal card, and if they do then they give it to you and you can move again. If They do not, then you draw a card from the deck and it is their turn. If you get all 4 types of a card, then you put them to the side as a book and it counts as a point, the person with the most points wins.
+
+
+While your turn:
+You ask another if they have any certain type of cards. 
+If so:
+then they give you the cards, 
+Otherwise:
+ they say go fish and you draw a card from the deck, and your turn ends and other player’s turn 
+If you have Four of the same types:
+the cards go turn into a ‘book’ and you gain a point, placing them to the side.
+While their turn:
+        They ask another if you have any type of cards. 
+If so:
+then you give them the cards, 
+Otherwise:
+You say go fish and they draw a card from the deck. 
+If they have Four of the same types:
+the cards go turn into a ‘book’ and they gain a point, placing them to the side.
+Their turn ends and is your turn.
+While one player has no cards:
+        Draw 5 cards from the deck.
+
+
+Else if there’s no more cards in the deck:
+                Then the game is over and the person with the most points wins.
+                If both players have same amount of points:
+                        Then game ends in a tie

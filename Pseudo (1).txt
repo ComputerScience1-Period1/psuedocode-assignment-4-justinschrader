@@ -4,7 +4,7 @@ You can ask the other player if they have that number/royal card, and if they do
 
 
 While your turn:
-You ask another if they have any certain type of cards. 
+You ask another if they have any certain type of cards. You are allowed to move again.
 If so:
 then they give you the cards, 
 Otherwise:
@@ -14,7 +14,7 @@ the cards go turn into a ‘book’ and you gain a point, placing them to the si
 While their turn:
         They ask another if you have any type of cards. 
 If so:
-then you give them the cards, 
+then you give them the cards, and they may move again.
 Otherwise:
 You say go fish and they draw a card from the deck. 
 If they have Four of the same types:

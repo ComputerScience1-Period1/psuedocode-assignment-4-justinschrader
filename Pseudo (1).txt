@@ -7,15 +7,15 @@ While your turn:
 You ask another if they have any certain type of cards. You are allowed to move again.
 If so:
 then they give you the cards, 
-Otherwise:
- they say go fish and you draw a card from the deck, and your turn ends and other player’s turn 
+
+Else they say go fish and you draw a card from the deck, and your turn ends and other player’s turn 
 If you have Four of the same types:
 the cards go turn into a ‘book’ and you gain a point, placing them to the side.
 While their turn:
         They ask another if you have any type of cards. 
 If so:
 then you give them the cards, and they may move again.
-Otherwise:
+Else:
 You say go fish and they draw a card from the deck. 
 If they have Four of the same types:
 the cards go turn into a ‘book’ and they gain a point, placing them to the side.

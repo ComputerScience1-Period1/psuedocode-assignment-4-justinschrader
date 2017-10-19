@@ -1,31 +1,34 @@
 ﻿There are 52 cards total. 
 Each person is given 5 cards. 
-You can ask the other player if they have that number/royal card, and if they do then they give it to you and you can move again. If They do not, then you draw a card from the deck and it is their turn. If you get all 4 types of a card, then you put them to the side as a book and it counts as a point, the person with the most points wins.
 
+You can ask the other player if they have that number/royal card, and if they do then they give it to you and you can ask another player if they have one of your desired number/face card. If They do not, then you draw a card from the deck and it is their turn. If you get all 4 types of a card, then you put them to the side as a book and it counts as a point, the person with the most points wins.
 
+While cards in deck > 0:
 While your turn with cards:
-You ask another if they have any certain type of cards:
+ Ask another player if they have one of your desired cards(number/face):
 If so:
-then they give you the cards,:
-Otherwise:
- they say go fish and you draw a card from the deck, and your turn ends and other player’s turn :
-If you have Four of the same types:
-the cards go turn into a ‘book’ and you gain a point, placing them to the side:
+ they give you all of your desired card in their hand:
+Else if they do not have your desired card:
+ you say go fish and you draw a card from the deck, and your turn ends and its the player’s to the left turn :
+If you have all four suits of the same card:
+ the cards turn into a ‘book’ and you gain a point, placing them to the side face up:
 While their turn with cards:
         They ask another if you have any type of cards.:
 If so:
-then you give them the cards:
-Otherwise:
-You say go fish and they draw a card from the deck. :
+ then you give them all of their desired card:
+Else:
+ You say go fish and they draw a card from the deck. :
 If they have Four of the same types:
-the cards go turn into a ‘book’ and they gain a point, placing them to the side:
-Their turn ends and is your turn:
-While one player has no cards and there’s cards in the deck:
+ the cards go turn into a ‘book’ and they gain a point, placing them to the side:
+They continue playing:
+If the player has no cards:
         Draw 5 cards from the remaining deck:
 
 
-Else if there’s no more cards in the deck:
+If there’s no more cards in the deck:
         Then the game is over:
-        If both players have same amount of points:        
-                Then game ends in a tie:
-Else person with the most points wins:
+If the game is over
+ The player with the most points(books) wins:
+ Else if two players have the same amount of point:
+ The game ends in a tie:
+  //Set who's turn it currently is to the player and when their turn is over switch it to the player to their left instead of everybody else and you
